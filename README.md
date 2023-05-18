@@ -18,14 +18,14 @@ Este desafio de projeto teve como objetivo, criar um website de clínica veterin
 
 
 ## Páginas do Projeto:<br>
-• Página Principal: Apresenta uma breve descrição sobre a clínica veterinária.<br>
-• Quem somos: Fornece informações detalhada sobre a missão da clínica.<br>
-• Horário de Atendimento: Exibe o horário de atendimento da clínica e uma tabela de preços dos serviços, com variações de acordo com os dias da semana.<br>
-• Contato: Inclui informações de contato, como telefones, endereço e um formulário para contato.<br><br><br>
+- Página Principal: Apresenta uma breve descrição sobre a clínica veterinária.<br>
+- Quem somos: Fornece informações detalhada sobre a missão da clínica.<br>
+- Horário de Atendimento: Exibe o horário de atendimento da clínica e uma tabela de preços dos serviços, com variações de acordo com os dias da semana.<br>
+- Contato: Inclui informações de contato, como telefones, endereço e um formulário para contato.<br><br><br>
  Navegação fácil e intuitiva através do menu de navegação.<br>
 
 
 ## Próximos Passos:<br>
-• Utilizar CSS para adicionar estilos e tornar o site mais atrativo visualmente.<br>
-• Explorar diferentes layouts e esquemas de cores para melhorar a experiência do usuário.<br>
-• Tornar o site responsivo.<br>
+- Utilizar CSS para adicionar estilos e tornar o site mais atrativo visualmente.<br>
+- Explorar diferentes layouts e esquemas de cores para melhorar a experiência do usuário.<br>
+- Tornar o site responsivo.<br>
