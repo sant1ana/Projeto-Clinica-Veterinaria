@@ -1,20 +1,32 @@
 #  Bootcamp Primeiros Passos em Tecnologia - Dio.me
-Módulo Estruturando páginas web com HTML
+Módulo Estruturando páginas web com HTML <br> <br> 
 ---------------------------------------------------------
 
-Este desafio de projeto teve como objetivo, criar um website de clínica veterinária fictício  "quase" completo em html com tudo que foi visto no módulo. O propósito principal do site é fornecer informações sobre os serviços oferecidos, horário de atendimento e opções de contato, com o intuito de atrair e auxiliar os proprietários de animais de estimação na busca por cuidados veterinários de qualidade.<br>
-
-## Tecnologias Utilizadas:<br>
-
-- HTML: A estrutura do site foi construída utilizando a linguagem de marcação HTML, garantindo a formatação correta do conteúdo e a criação de elementos interativos.<br>
 
 
-## Páginas do Projeto:<br>
-- Página Principal: Apresenta uma breve descrição sobre a clínica veterinária.<br>
-- Quem somos: Fornece informações detalhada sobre a missão da clínica.<br>
-- Horário de Atendimento: Exibe o horário de atendimento da clínica e uma tabela de preços dos serviços, com variações de acordo com os dias da semana.<br>
-- Contato: Inclui informações de contato, como telefones, endereço e um formulário para contato.<br><br><br>
- Navegação fácil e intuitiva através do menu de navegação.<br>
+                                                      Clínica Veterinária Patinhas Felizes 🐾
+                                                 
+   - website clínica veterinária fictício  "quase" completo em html com tudo que foi visto no módulo.<br> <br>
+
+
+
+## Descrição do Projeto:
+
+Neste projeto, você encontrará um site fictício de uma clínica veterinária, criado exclusivamente com tags HTML. O site foi desenvolvido para fins educacionais, permitindo a prática de habilidades básicas de HTML, como criação de estrutura, formatação de texto, inserção de imagens, criação de links, entre outros.
+
+
+## Conteúdo do Projeto:<br>
+- O arquivo principal é o index.html, onde está estruturado o conteúdo principal do site.
+- O diretório "imagens" contém as imagens utilizadas no site.
+- Quem somos: Fornece informações detalhada sobre a missão da clínica.
+- Horário de Atendimento: Exibe o horário de atendimento da clínica e uma tabela de preços dos serviços, com variações de acordo com os dias da semana.
+- Contato: Inclui informações de contato, como telefones, endereço e um formulário para contato.
+- Navegação fácil e intuitiva através do menu de navegação. <br> <br>
+
+https://github.com/sant1ana/Projeto-Clinica-Veterinaria/assets/93404790/0226b3a1-5bfa-4746-a0f4-dbb4a00521b5
+
+
+-  este projeto foi útil para aprimorar minhas habilidades em HTML e proporcionar uma experiência prática na criação de um site simples.
 
 
 ## Próximos Passos:<br>
