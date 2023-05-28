@@ -2,10 +2,8 @@
 Módulo Estruturando páginas web com HTML <br> <br> 
 ---------------------------------------------------------
 
-
-🐾 Clínica Veterinária Patinhas Felizes 🐾
+🐾 Clínica Veterinária Patinhas Felizes 🐾 <br> <br>
                                                  
-- website clínica veterinária fictício  "quase" completo em html com tudo que foi visto no módulo.<br> <br>
 
 ## Descrição do Projeto:
 
