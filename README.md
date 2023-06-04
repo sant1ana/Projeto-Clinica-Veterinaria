@@ -7,7 +7,7 @@ Módulo Estruturando páginas web com HTML <br> <br>
 
 ## Descrição do Projeto:
 
-Neste projeto, você encontrará um site fictício de uma clínica veterinária, criado exclusivamente com tags HTML. O site foi desenvolvido para fins educacionais, permitindo a prática de habilidades básicas de HTML, como criação de estrutura, formatação de texto, inserção de imagens, criação de links, entre outros.
+Neste 3º Desafio de projeto, você encontrará um site fictício de uma clínica veterinária, criado exclusivamente com tags HTML. O site foi desenvolvido para fins educacionais, permitindo a prática de habilidades básicas de HTML, como criação de estrutura, formatação de texto, inserção de imagens, criação de links, entre outros.
 
 
 ## Conteúdo do Projeto:<br>
