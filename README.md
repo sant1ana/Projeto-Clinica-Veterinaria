@@ -1,13 +1,14 @@
-#  Bootcamp Primeiros Passos em Tecnologia - Dio.me
-Módulo Estruturando páginas web com HTML <br> <br> 
----------------------------------------------------------
 
-🐾 Clínica Veterinária Patinhas Felizes 🐾 <br> <br>
+
+ # 🐾 Clínica Veterinária Patinhas Felizes 🐾 <br> <br>
                                                  
 
 ## Descrição do Projeto:
 
-Neste 3º Desafio de projeto, você encontrará um site fictício de uma clínica veterinária, criado exclusivamente com tags HTML. O site foi desenvolvido para fins educacionais, permitindo a prática de habilidades básicas de HTML, como criação de estrutura, formatação de texto, inserção de imagens, criação de links, entre outros.
+Neste projeto, você encontrará um site fictício de uma clínica veterinária, criado exclusivamente com tags HTML. O site foi desenvolvido para por em prática tudo que eu aprendi durante meus estudos. Pude aprimorar minhas habilidades em HTML e proporcionar uma experiência prática na criação de um site simples,  como criação de estrutura, formatação de texto, inserção de imagens, criação de links, tabela e formulário.
+
+- Tags utilizadas:
+`<h1>` até `<h6>`, `<p>`, `<i>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<img>`, `<table>`, `<tr>`, `<th>`, `<td>`, `<form>`, `<input>`, `<label>`, `<select>`, `<option>`
 
 
 ## Conteúdo do Projeto:<br>
@@ -20,8 +21,6 @@ Neste 3º Desafio de projeto, você encontrará um site fictício de uma clínic
 
 https://github.com/sant1ana/Projeto-Clinica-Veterinaria/assets/93404790/0226b3a1-5bfa-4746-a0f4-dbb4a00521b5
 
-
--  este projeto foi útil para aprimorar minhas habilidades em HTML e proporcionar uma experiência prática na criação de um site simples.
 
 
 ## Próximos Passos:<br>
