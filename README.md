@@ -5,7 +5,7 @@
 
 ## Descrição do Projeto:
 
-Neste projeto, você encontrará um site fictício de uma clínica veterinária. O site foi desenvolvido para por em prática tudo que eu aprendi durante meus estudos. Pude aprimorar minhas habilidades e proporcionar uma experiência prática na criação de um site simples, como criação de estrutura, formatação de texto, inserção de imagens, criação de links, tabela e formulário.
+Neste projeto, você encontrará um site fictício de uma clínica veterinária criado por mim. O site foi desenvolvido para por em prática tudo que eu aprendi durante meus estudos com ele Pude aprimorar minhas habilidades e proporcionar uma experiência prática na criação de um site simples, como criação de estrutura, formatação de texto, inserção de imagens, criação de links, tabela e formulário.
 
 - Tags utilizadas:
 `<h1>` até `<h6>`, `<p>`, `<i>`, `<ol>`, `<ul>`, `<li>`, `<a>`, `<img>`, `<table>`, `<tr>`, `<th>`, `<td>`, `<form>`, `<input>`, `<label>`, `<select>`, `<option>`
